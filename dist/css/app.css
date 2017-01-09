@@ -1,0 +1,18 @@
+.jj-photo-container {
+	width: 250px;
+	height: 250px;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+}
+
+nav {
+	background-color: #1a237e;
+}
+
+nav ul a {
+	height: 64px;
+}
